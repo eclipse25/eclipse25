@@ -20,22 +20,33 @@ Majored in English Literature and Electrical Engineering.<br>
 I'm currently studying development, with an interest in anything related to software.<br>
 Recently, my studies have been especially concentrated on exploring data!
 
-<h3>Skills and Technologies</h3>
+<h3>Tech Stack</h3>
 <div>
-  <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=#2496ED&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">&nbsp
-  <!--  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white">&nbsp -->
-  <!--  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">&nbsp -->
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/AWS Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">
+  <!--  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white">-->
+  <!--  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">-->
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+</div>
+<div></div>
+
+<h3>Development Tools</h3>
+<div>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
 </div>
 

@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/eclipse25/eclipse25.github.io/blob/main/assets/img/spacewalk.jpg" alt="spacewalk">
 
-Majored in English Literature and Electrical Engineering.<br>
-I'm currently studying development, with an interest in anything related to software.<br>
-Recently, my studies have been especially concentrated on exploring data!
+Majored in English Literature and Electronic Engineering.<br>
+Interested in any software development, with a recent focus on data exploration.
+
 
 <h3>Tech Stack</h3>
 <div>
@@ -34,11 +34,6 @@ Recently, my studies have been especially concentrated on exploring data!
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">
-  <!--  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white">-->
-  <!--  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">-->
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 </div>
 <div></div>
 
@@ -48,5 +43,6 @@ Recently, my studies have been especially concentrated on exploring data!
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
 </div>
 

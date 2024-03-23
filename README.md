@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/eclipse25/eclipse25.github.io/blob/main/assets/img/spacewalk.jpg" alt="spacewalk">
-
 Majored in English Literature and Electronic Engineering.<br>
 Interested in any software development, with a recent focus on data exploration.
 

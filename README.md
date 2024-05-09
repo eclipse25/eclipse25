@@ -16,8 +16,8 @@ Interested in software development, with a recent focus on **Backend and Data**.
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
 </div>
 
+<!--
 <br>
-
 | <a href="https://github.com//eclipse25/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eclipse25&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="eclipse25's github stats" /></a> | <a href="https://github.com/eclipse25/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eclipse25&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+-->
